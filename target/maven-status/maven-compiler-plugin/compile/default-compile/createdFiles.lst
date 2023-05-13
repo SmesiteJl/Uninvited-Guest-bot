@@ -1,0 +1,4 @@
+com\uninvitedGuest\AnUninvitedGuestBot\config\BotConfig.class
+com\uninvitedGuest\AnUninvitedGuestBot\AnUninvitedGuestBotApplication.class
+com\uninvitedGuest\AnUninvitedGuestBot\config\BotInitializer.class
+com\uninvitedGuest\AnUninvitedGuestBot\service\TelegrammBot.class
