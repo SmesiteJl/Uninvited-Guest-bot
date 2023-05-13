@@ -1,6 +1,6 @@
 <configuration>
 
-    <property name="HOME_LOG" value="/var/log/com.uninvitedGuest/uninvited-guest-bot/logs.log"/>
+    <property name="HOME_LOG" value="var/log/com.uninvitedGuest/uninvited-guest-bot/logs.log"/>
 
     <appender name="FILE-ROLLING" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>${HOME_LOG}</file>

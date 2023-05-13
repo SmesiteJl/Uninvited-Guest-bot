@@ -1,0 +1,15 @@
+2023-05-13 22:15:00,763 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [com.uninvitedGuest.AnUninvitedGuestBot.AnUninvitedGuestBotApplicationTests]: AnUninvitedGuestBotApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-05-13 22:15:00,825 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration com.uninvitedGuest.AnUninvitedGuestBot.AnUninvitedGuestBotApplication for test class com.uninvitedGuest.AnUninvitedGuestBot.AnUninvitedGuestBotApplicationTests
+2023-05-13 22:15:01,045 WARN o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [main] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/Workspace/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/Workspace/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2023-05-13 22:15:01,055 INFO c.u.A.AnUninvitedGuestBotApplicationTests [main] Starting AnUninvitedGuestBotApplicationTests using Java 20.0.1 with PID 38752 (started by Workspace in C:\DovaTuum\MyJavaProjects\AnUninvitedGuestBot)
+2023-05-13 22:15:01,055 DEBUG c.u.A.AnUninvitedGuestBotApplicationTests [main] Running with Spring Boot v3.0.6, Spring v6.0.8
+2023-05-13 22:15:01,055 INFO c.u.A.AnUninvitedGuestBotApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2023-05-13 22:15:02,177 INFO c.u.A.AnUninvitedGuestBotApplicationTests [main] Started AnUninvitedGuestBotApplicationTests in 1.276 seconds (process running for 1.985)
